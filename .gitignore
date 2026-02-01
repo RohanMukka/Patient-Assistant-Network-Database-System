@@ -1,0 +1,14 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Build
+target/
+out/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
